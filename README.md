@@ -13,6 +13,11 @@ This is an end-to-end ML Project, prediction of the next month credit card defau
 8.Amount of previous payment for the past 6 months
 
 ## Technologies Used
+Python
+Pandas
+Matplotlib
+Seaborn
+Scikit learn
 
 
    
